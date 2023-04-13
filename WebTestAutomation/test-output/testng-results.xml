@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-13T21:43:17 IST" name="Default suite" finished-at="2023-04-13T21:43:29 IST" duration-ms="12259">
+    <groups>
+    </groups>
+    <test started-at="2023-04-13T21:43:17 IST" name="Default test" finished-at="2023-04-13T21:43:29 IST" duration-ms="12259">
+      <class name="PreInterview.WebPage.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:PreInterview.WebPage.tests.HomePageTest@618425b5]" started-at="2023-04-13T21:43:17 IST" name="setup" finished-at="2023-04-13T21:43:26 IST" duration-ms="9245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchText()[pri:0, instance:PreInterview.WebPage.tests.HomePageTest@618425b5]" started-at="2023-04-13T21:43:26 IST" name="searchText" finished-at="2023-04-13T21:43:29 IST" duration-ms="2634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchText -->
+        <test-method signature="verifyUserIsOnHomePage()[pri:0, instance:PreInterview.WebPage.tests.HomePageTest@618425b5]" started-at="2023-04-13T21:43:29 IST" name="verifyUserIsOnHomePage" finished-at="2023-04-13T21:43:29 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsOnHomePage -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:PreInterview.WebPage.tests.HomePageTest@618425b5]" started-at="2023-04-13T21:43:29 IST" name="driverClose" finished-at="2023-04-13T21:43:29 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- PreInterview.WebPage.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
